@@ -6,7 +6,6 @@
  *
  * Description: header file for the PWM driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 

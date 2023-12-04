@@ -6,7 +6,6 @@
  *
  * Description: Source file for the Fan state module in which we update the LCD display
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 
@@ -56,7 +55,7 @@ void Fan_Process(void)
 	{
 		fan_state=OFF;
 		DcMotor_Rotate(STOP, 0);
-		
+
 	}
 	else if ((temp>=15)&&(temp<20))
 	{

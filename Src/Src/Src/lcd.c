@@ -6,7 +6,6 @@
  *
  * Description: Source file for the LCD driver
  *
- * Author: Mohamed Tarek
  *
  *******************************************************************************/
 

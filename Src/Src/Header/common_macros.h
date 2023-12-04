@@ -6,7 +6,6 @@
  *
  * Description: Commonly used Macros
  *
- * Author: Sayed Mohsen
  *
  *******************************************************************************/
 

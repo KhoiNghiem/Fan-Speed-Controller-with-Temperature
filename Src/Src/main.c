@@ -1,13 +1,3 @@
-/*
-  =============================================================================
- * Name			:mini_project3.c
- * Author		:Menna Saeed
- * Description 	:Design a temperature-controlled fan using ATmega16 microcontroller,
-                 in which the fan is automatically turned ON or OFF according to the temperature.
- * Created on	:Feb 24, 2022
- ==============================================================================
- */
-
 #include "lcd.h"
 #include "lm35_sensor.h"
 #include "dc_motor.h"

@@ -6,7 +6,6 @@
  *
  * Description: Source file for the Fan state module in which we update the LCD display
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 

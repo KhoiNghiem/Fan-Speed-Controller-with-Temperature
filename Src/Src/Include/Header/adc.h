@@ -6,7 +6,6 @@
  *
  * Description: header file for the ATmega16 ADC driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 

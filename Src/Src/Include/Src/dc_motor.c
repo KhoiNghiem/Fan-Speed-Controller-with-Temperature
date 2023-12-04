@@ -6,7 +6,6 @@
  *
  * Description: Source file for the ATmega16 DC motor driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 #include "dc_motor.h"
@@ -40,9 +39,9 @@ void DcMotor_init(void)
  * Send the required duty cycle to the PWM driver based on the required speed value.
  */
 
-void DcMotor_Rotate(DcMotor_State state,uint8 speed) // 25%
+void DcMotor_Rotate(DcMotor_State state,uint8 speed)
 {
-	PWM_Timer0_Start(((uint16)(speed*255)/(100))); // Maybe chia lay phan nguyen?
+	PWM_Timer0_Start (((uint16)(speed*255)/(100))); // Maybe chia lay phan nguyen?
 	switch(state)
 	{
 	case STOP:

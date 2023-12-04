@@ -6,7 +6,6 @@
  *
  * Description: header file for the LM35 Temperature Sensor driver
  *
- * Author: Mohamed Tarek
  *
  *******************************************************************************/
 

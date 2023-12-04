@@ -6,7 +6,6 @@
  *
  * Description: Source file for the ATmega16 DC motor driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 #include "dc_motor.h"

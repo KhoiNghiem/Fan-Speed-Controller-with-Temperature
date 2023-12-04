@@ -6,7 +6,6 @@
  *
  * Description: Source file for the AVR GPIO driver
  *
- * Author: Mohamed Tarek
  *
  *******************************************************************************/
 

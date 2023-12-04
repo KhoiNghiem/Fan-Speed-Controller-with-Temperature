@@ -6,7 +6,6 @@
  *
  * Description: header file for the Fan states
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 

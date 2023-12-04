@@ -6,7 +6,6 @@
  *
  * Description: header file for the DC motor driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 

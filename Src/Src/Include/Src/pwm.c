@@ -6,7 +6,6 @@
  *
  * Description: Source file for the ATmega16 PWM driver
  *
- * Author: Menna Saeed
  *
  *******************************************************************************/
 
